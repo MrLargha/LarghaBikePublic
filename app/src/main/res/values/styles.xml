@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="indicator_style">
+        <item name="android:fontFamily">@font/digital</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="expandedTitleTextAppearance">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowDx">5</item>
+        <item name="android:shadowDy">5</item>
+        <item name="android:shadowRadius">15</item>
+    </style>
+
+    <style name="collapsedTitleTextAppearance">
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+</resources>
